@@ -30,6 +30,16 @@ Beyond research, I teach physics and metrology, mentor student projects, and act
 
 ---
 
+### Research Focus: Predictive Thermophysics
+
+My core scientific interest is **bridging experimental data with predictive models**. I develop:
+- **Correlations** between composition and thermophysical properties (density, viscosity, thermal conductivity)
+- **Machine‑learning surrogates** to accelerate property estimation for new fluids
+- **Uncertainty‑aware models** that quantify prediction errors and guide further experiments
+
+This approach allows me to provide **engineering‑ready tools** for designing heat exchangers, pumps, and processing equipment with minimal experimental overhead.
+
+---
 ### 🛠️ Skills & Tools
 
 **Experimental & Measurement**
@@ -63,16 +73,18 @@ Beyond research, I teach physics and metrology, mentor student projects, and act
 - **Best Young Scientist Talk** – ITMO University, 2026 (Thermophysics section)
 - **Winner** – *Blue Sky Research* hackathon, 2024 (AI for engineering software) – aerodynamic calculations using neural networks
 - **Finalist** – Track on optimal compressor screw geometry generation
+- **MotorOilRecycle** – startup for motor oil regeneration; **developed property prediction models for oil‑based mixtures** (semi-finals  EnergyTechnoHub accelerator, 2024)
 
 ### 💼 Experience
 
 **Engineer, Laboratory of Thermophysics** (Sep 2024 – present)  
 *ITMO University, Saint Petersburg*  
 - Experimental measurements of thermal conductivity and viscosity of multicomponent liquids  
-- Data processing and primary analysis  
+- **Processing and interpretation of data, building regression models and predictive algorithms**  
+- **Developing mathematical descriptions of rheological behaviour and heat transfer**  
 - Writing publications and conference contributions  
 - Projects: heat/mass transfer in biological media, circular economy for secondary resources
-
+  
 **Teacher, Lector, Mentor of physics and python**
 
 **Technical Artist & Programmer** (Sep 2019 – Jun 2022)  
