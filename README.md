@@ -23,12 +23,11 @@
 
 ### 🔬 About Me
 
-I am PhD student at **ITMO University** (Thermophysics and Theoretical Heat Engineering). My research focuses on experimental determination of rheological and thermophysical properties of complex fluids — including food colorants, nanofluids, and motor oils.
+I am PhD student at **ITMO University** (Thermophysics and Theoretical Heat Engineering). My research is centered on **mathematical modeling and prediction of thermophysical properties** of complex fluids — including food colorants, nanofluids, and motor oils — using a combination of **experimental data**, **analytical models**, and **machine learning techniques**.
 
-I bridge **experimental measurement**, **data analysis**, and **engineering applications**. I develop mathematical models from experimental data, perform numerical simulations (COMSOL), and write custom scripts (Python, MATLAB) for data processing and visualization.
+I build **predictive systems** that reveal hidden dependencies between composition, structure, and properties of liquids. I use experimental methods (rheology, thermal conductivity) to generate high‑quality data, but my primary focus is on **data‑driven modeling**, **statistical analysis**, and **development of engineering forecasting tools** for heat exchange and pumping equipment.
 
-Besides research, I actively teach physics and metrology, mentor student projects, and participate in interdisciplinary hackathons (AI in engineering, urban development, green tech).
-
+Beyond research, I teach physics and metrology, mentor student projects, and actively participate in interdisciplinary hackathons where I apply AI to engineering problems.
 ---
 
 ### 🛠️ Skills & Tools
