@@ -46,7 +46,7 @@ Besides research, I actively teach physics and metrology, mentor student project
 **Programming & Data**
 - 🐍 **Python** (2+ years) – data analysis, visualisation, simple ML models
 - 🧠 **Machine Learning** – applied to thermophysical property prediction (nanofluids, etc.)
-- 🖥️ **C# / Unity** – VFX and technical graphics (previous work experience)
+- 🖥️ **C# / Unity** – VFX and technical graphics, game mechanics (previous work experience)
 - ⚡ **Arduino** – sensor integration, data acquisition, experiment automation
 - 📊 **MATLAB** – research calculations
 - 🐧 **Git, Linux,** Mermaid for diagrams
