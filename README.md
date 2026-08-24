@@ -92,11 +92,11 @@ This approach allows me to provide **engineering‑ready tools** for designing h
 - Technical graphics and visualisation – [Unity Asset Store](https://assetstore-fallback.unity.com/publishers/10665?locale=ko-KR) · [ArtStation](https://www.artstation.com/verau_frau_ruby)
 
 ---
-### 🌐 Languages
+### Languages
 - **English** – Upper‑Intermediate (B2)
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 I’m open to collaboration, research discussions, and teaching opportunities. Feel free to reach out via email or connect on GitHub.
