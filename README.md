@@ -44,12 +44,12 @@ Beyond research, I teach physics and metrology, mentor student projects, and act
 - 🔧 **Development of predictive models** for thermophysical properties (density, viscosity, heat capacity)
 
 **Programming & Data**
-- 🐍 **Python** (2+ years) – data analysis, visualisation, simple ML models
-- 🧠 **Machine Learning** – applied to thermophysical property prediction (nanofluids, etc.)
-- 🖥️ **C# / Unity** – VFX and technical graphics, game mechanics (previous work experience)
-- ⚡ **Arduino** – sensor integration, data acquisition, experiment automation
-- 📊 **MATLAB** – research calculations
-- 🐧 **Git, Linux,** Mermaid for diagrams
+- 🐍 **Python** (4+ years) – data processing, visualisation, machine learning, building predictive pipelines
+- ⚡ **Arduino** – sensor integration, data acquisition, automation of experiments for model validation
+- 🧠 **Machine Learning** – applied to thermophysical property prediction (nanofluids, bio‑liquids)
+- 🖥️ **C# / Unity** – VFX and technical graphics (past experience)
+- 📊 MATLAB – research calculations, matrix operations, model prototyping
+- 🐧 Git, Linux, Mermaid for diagrams
 
 **Teaching & Communication**
 - Physics, metrology, materials science
