@@ -39,8 +39,8 @@ Besides research, I actively teach physics and metrology, mentor student project
 - Uncertainty analysis & data interpretation
 
 **Simulation & Modelling**
-- 🧊 **COMSOL Multiphysics** – heat transfer, fluid dynamics
-- 🎨 **SolidWorks / Kompas‑3D** – geometry & schematics
+- **COMSOL Multiphysics** – heat transfer, fluid dynamics
+- **SolidWorks / Kompas‑3D** – geometry & schematics
 - 🔧 Heat exchanger & hydraulic resistance calculations
 
 **Programming & Data**
