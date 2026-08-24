@@ -1,13 +1,13 @@
 <!-- Бейджи технологий (значки) -->
 <p align="center">
-<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
- <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" alt="ML" />
+  <img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-0066B3?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
----
 <h1 align="center"> 👋Hi, I’m Vera Raudsep</h1>
 <h3 align="center">PhD in progress</h3>
 <div align="center">
@@ -47,6 +47,7 @@ Besides research, I actively teach physics and metrology, mentor student project
 - 🐍 **Python** (2+ years) – data analysis, visualisation, simple ML models
 - 🧠 **Machine Learning** – applied to thermophysical property prediction (nanofluids, etc.)
 - 🖥️ **C# / Unity** – VFX and technical graphics (previous work experience)
+- ⚡ **Arduino** – sensor integration, data acquisition, experiment automation
 - 📊 **MATLAB** – research calculations
 - 🐧 **Git, Linux,** Mermaid for diagrams
 
