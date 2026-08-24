@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-0066B3?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL" />
 </p>
