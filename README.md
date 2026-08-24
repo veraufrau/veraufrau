@@ -36,7 +36,6 @@ Besides research, I actively teach physics and metrology, mentor student project
 **Experimental & Measurement**
 - Thermal conductivity & specific heat capacity
 - Rheology (dynamic viscosity, yield stress, temperature/shear dependencies)
-- Working with viscous and structured media (concentrates, extracts, suspensions)
 - Uncertainty analysis & data interpretation
 
 **Simulation & Modelling**
@@ -48,8 +47,8 @@ Besides research, I actively teach physics and metrology, mentor student project
 - 🐍 **Python** (2+ years) – data analysis, visualisation, simple ML models
 - 🧠 **Machine Learning** – applied to thermophysical property prediction (nanofluids, etc.)
 - 🖥️ **C# / Unity** – VFX and technical graphics (previous work experience)
-- 📊 MATLAB – research calculations
-- 🐧 Git, Linux, Mermaid for diagrams
+- 📊 **MATLAB** – research calculations
+- 🐧 **Git, Linux,** Mermaid for diagrams
 
 **Teaching & Communication**
 - Physics, metrology, materials science
