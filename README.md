@@ -10,6 +10,7 @@
 ---
 <h1 align="center"> 👋Hi, I’m Vera Raudsep</h1>
 <h3 align="center">PhD in progress</h3>
+<div align="center">
    <p><strong>| Thermophysics | Experimental Rheology & Heat Transfer |</strong></p>
   <p>📍 Saint Petersburg, Russia &nbsp;|&nbsp; 📧 vera.raudsep@yandex.ru</p>
   <p>
@@ -19,7 +20,6 @@
     <a href="https://www.researchgate.net/profile/Vera-Raudsep">ResearchGate</a>
   </p>
 </div>
----
 
 ### 🔬 About Me
 
@@ -40,7 +40,7 @@ Besides research, I actively teach physics and metrology, mentor student project
 
 **Simulation & Modelling**
 - 🧊 **COMSOL Multiphysics** – heat transfer, fluid dynamics
-- 🎨 SolidWorks / Kompas‑3D – geometry & schematics
+- 🎨 **SolidWorks / Kompas‑3D** – geometry & schematics
 - 🔧 Heat exchanger & hydraulic resistance calculations
 
 **Programming & Data**
