@@ -57,7 +57,7 @@ This approach allows me to provide **engineering‑ready tools** for designing h
 - **🐍** **Python** (4+ years) – data processing, visualisation, machine learning, building predictive pipelines
 - **Arduino** – sensor integration, data acquisition, automation of experiments for model validation
 - **Machine Learning** – applied to thermophysical property prediction (nanofluids, bio‑liquids)
-- **C# / Unity** – VFX and technical graphics (past experience)
+- **C# / Unity** – VFX, technical graphics and game mechanics (past experience)
 - **MATLAB** – research calculations, matrix operations, model prototyping
 - 🐧 **Git, Linux, Mermaid** for diagrams
 
