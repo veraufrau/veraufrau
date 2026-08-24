@@ -50,12 +50,12 @@ This approach allows me to provide **engineering‑ready tools** for designing h
 **Simulation & Modelling**
 - **COMSOL Multiphysics** – heat transfer, fluid dynamics
 - **SolidWorks / Kompas‑3D** – geometry & schematics
-- 📈 **Statistical analysis & uncertainty quantification** – error estimation, sensitivity analysis
-- 🔧 **Development of predictive models** for thermophysical properties (density, viscosity, heat capacity)
+- **Statistical analysis & uncertainty quantification** – error estimation, sensitivity analysis
+- **Development of predictive models** for thermophysical properties (density, viscosity, heat capacity)
 
 **Programming & Data**
 - 🐍 **Python** (4+ years) – data processing, visualisation, machine learning, building predictive pipelines
-- ⚡ **Arduino** – sensor integration, data acquisition, automation of experiments for model validation
+- **Arduino** – sensor integration, data acquisition, automation of experiments for model validation
 - **Machine Learning** – applied to thermophysical property prediction (nanofluids, bio‑liquids)
 - **C# / Unity** – VFX and technical graphics (past experience)
 - MATLAB – research calculations, matrix operations, model prototyping
