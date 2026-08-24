@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+ <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-0066B3?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL" />
 </p>
 
