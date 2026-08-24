@@ -11,7 +11,7 @@
 <h1 align="center"> 👋Hi, I’m Vera Raudsep</h1>
 <h3 align="center">PhD in progress</h3>
 <div align="center">
-   <p><strong>| Thermophysics | Experimental Rheology & Heat Transfer |</strong></p>
+    <h4>| Thermophysics | Mathematical Modeling & Predictive Systems |</h4>
   <p>📍 Saint Petersburg, Russia &nbsp;|&nbsp; 📧 vera.raudsep@yandex.ru</p>
   <p>
     🔗 <a href="https://orcid.org/0009-0008-0728-9499">ORCID</a> · 
