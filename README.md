@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-0066B3?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <h1 align="center"> 👋Hi, I’m Vera Raudsep</h1>
