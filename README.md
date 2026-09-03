@@ -86,7 +86,7 @@ This approach allows me to provide **engineering‑ready tools** for designing h
 - Writing publications and conference contributions  
 - Projects: heat/mass transfer in biological media, circular economy for secondary resources
   
-**Teacher, Lector, Mentor of physics and python**
+**Teacher, Lector, Mentor of physics, chemistry and python**
 
 **Technical Artist & Programmer** (Sep 2019 – Jun 2022)  
 *Diamond Fox*  
