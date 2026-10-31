@@ -13,7 +13,7 @@
 <h3 align="center">PhD in progress</h3>
 <div align="center">
     <h4>| Thermophysics | Mathematical Modeling & Predictive Systems |</h4>
-  <p>📍 Saint Petersburg, Russia &nbsp;|&nbsp; 📧 vera.raudsep@yandex.ru</p>
+  <p> 📧 vera.raudsep@yandex.ru</p>
   <p>
     🔗 <a href="https://orcid.org/0009-0008-0728-9499">ORCID</a> · 
     <a href="https://www.artstation.com/verau_frau_ruby">ArtStation</a> · 
