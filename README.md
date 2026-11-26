@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hi, I’m Vera Raudsep</h1>
 <p align="center">
   <b>PhD Researcher @ ITMO University</b><br>
-  Thermophysics | Mathematical Modeling | Predictive Systems & Digital Twins
+  Thermophysics | Mathematical Modeling | Predictive Systems & Chemistry
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ---
 
-### 🎯 Short Intro
+### Intro
 I build **predictive systems** and **digital twins** that reveal hidden dependencies between composition, structure, and properties of complex fluids (e.g., natural food colorants, nanofluids, motor oils). My work bridges **experimental data** (rheology, thermal conductivity) with **data-driven modeling** (ML, statistical analysis) to create engineering-ready forecasting tools for heat exchange and processing equipment.
 
 ---
 
 <details>
-<summary>🔬 <b>Research Focus & Methodology</b> (Click to expand)</summary>
+<summary>🔬 <b>Research Focus & Methodology</b> </summary>
 <br>
 My core scientific interest is bridging experimental data with predictive models to minimize experimental overhead in engineering design.
 
@@ -41,7 +41,7 @@ My core scientific interest is bridging experimental data with predictive models
 </details>
 
 <details>
-<summary>🛠️ <b>Skills & Tools</b> (Click to expand)</summary>
+<summary>🛠️ <b>Skills & Tools</b> </summary>
 <br>
 <table>
   <tr>
@@ -53,7 +53,7 @@ My core scientific interest is bridging experimental data with predictive models
 </details>
 
 <details>
-<summary>💼 <b>Experience & Achievements</b> (Click to expand)</summary>
+<summary>💼 <b>Experience & Achievements</b> </summary>
 <br>
 <b>🔬 Engineer, Laboratory of Thermophysics</b> | <i>ITMO University, Saint Petersburg</i> (Sep 2024 – present)
 <ul>
@@ -73,7 +73,7 @@ My core scientific interest is bridging experimental data with predictive models
 </details>
 
 <details>
-<summary>🌍 <b>Languages</b> (Click to expand)</summary>
+<summary>🌍 <b>Languages</b> </summary>
 <br>
 - 🇬🇧 <b>English:</b> Upper-Intermediate (B2)
 - 🇷🇺 <b>Russian:</b> Native
@@ -82,8 +82,4 @@ My core scientific interest is bridging experimental data with predictive models
 ---
 
 ### 🤝 Let’s Connect
-I’m open to collaboration, research discussions, and interdisciplinary projects where AI meets engineering. Feel free to reach out via email or connect on [Telegram](https://t.me/VeRau_frau) / [ResearchGate](https://www.researchgate.net/profile/Vera-Raudsep).
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+I’m open to collaboration, research discussions, and interdisciplinary projects where AI meets engineering. Feel free to reach out via email or connect on [Telegram](https://t.me/VeRau_frau) / [ResearchGate](https://www.researchgate.net/profile/Vera-Raudsep)
