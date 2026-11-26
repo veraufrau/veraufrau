@@ -37,7 +37,7 @@ My core scientific interest is bridging experimental data with predictive models
 - **Correlations:** Linking composition to thermophysical properties (density, viscosity, thermal conductivity).
 - **ML Surrogates:** Accelerating property estimation for new fluids using neural networks (e.g., MLP for regression tasks).
 - **Uncertainty-Aware Models:** Quantifying prediction errors to guide further targeted experiments.
-- **Domain:** Plant-based food colorants (black carrot, radish), bio-liquids, and secondary resource processing.
+- **Domain:** Plant-based food colorants, bio-liquids, and secondary resource processing.
 </details>
 
 <details>
