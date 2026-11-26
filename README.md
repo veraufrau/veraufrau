@@ -24,7 +24,7 @@
 
 ---
 
-### Intro
+###
 I build **predictive systems** and **digital twins** that reveal hidden dependencies between composition, structure, and properties of complex fluids (e.g., natural food colorants, nanofluids, motor oils). My work bridges **experimental data** (rheology, thermal conductivity) with **data-driven modeling** (ML, statistical analysis) to create engineering-ready forecasting tools for heat exchange and processing equipment.
 
 ---
