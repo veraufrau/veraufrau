@@ -10,7 +10,7 @@
 
 <h1 align="center">👋 Hi, I’m Vera Raudsep</h1>
 <p align="center">
-  <b>PhD Researcher @ ITMO University</b><br>
+  <b>Researcher @ ITMO University</b><br>
   Thermophysics | Mathematical Modeling | Predictive Systems & Chemistry
 </p>
 
